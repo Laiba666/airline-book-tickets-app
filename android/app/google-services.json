@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952500980204",
+    "project_id": "airline-book-tickets-app",
+    "storage_bucket": "airline-book-tickets-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952500980204:android:2b32dc6e7bfd130c73d8c9",
+        "android_client_info": {
+          "package_name": "com.example.airline_book_tickets_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw9jvm_H4wNi0G2bM2-BvIxfUX3ONGOZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
